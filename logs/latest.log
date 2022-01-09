@@ -1,6 +1,1 @@
-[23:06:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@6ece21e4[id=<null>,name=CrckedTest31,properties={},legacy=false] (/188.166.23.217:46750) lost connection: Disconnected
-[23:06:09] [User Authenticator #4/INFO]: UUID of player Mees79 is d06950e1-6916-449e-9111-266984358bf5
-[23:06:09] [Server thread/INFO]: Mees79[/188.166.23.217:46754] logged in with entity id 2066 at (-21.5, 68.0, -54.5)
-[23:06:09] [Server thread/INFO]: Mees79 joined the game
-[23:06:19] [Server thread/INFO]: Mees79 lost connection: Disconnected
-[23:06:19] [Server thread/INFO]: Mees79 left the game
+[01:11:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@6ceb5c77[id=<null>,name=INETDataSurveyK3,properties={},legacy=false] (/163.172.138.166:37216) lost connection: Disconnected
