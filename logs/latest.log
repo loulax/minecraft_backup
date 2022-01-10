@@ -1,1 +1,5 @@
-[01:11:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@6ceb5c77[id=<null>,name=INETDataSurveyK3,properties={},legacy=false] (/163.172.138.166:37216) lost connection: Disconnected
+[20:53:20] [User Authenticator #5/INFO]: UUID of player Bilibili_Feng is 8f50b361-68dc-4cd4-a00b-b739cb4800af
+[20:53:20] [Server thread/INFO]: Bilibili_Feng[/207.244.236.144:33396] logged in with entity id 2143 at (-28.5, 82.0, -73.5)
+[20:53:20] [Server thread/INFO]: Bilibili_Feng joined the game
+[20:53:25] [Server thread/INFO]: Bilibili_Feng lost connection: Disconnected
+[20:53:25] [Server thread/INFO]: Bilibili_Feng left the game
