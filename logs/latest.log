@@ -19,3 +19,8 @@
 [22:50:26] [Server thread/WARN]: FxEok moved too quickly! 5.293564756852064,0.04332011250883738,10.175381550999182
 [22:50:29] [Server thread/INFO]: FxEok lost connection: Disconnected
 [22:50:29] [Server thread/INFO]: FxEok left the game
+[23:59:01] [User Authenticator #10/INFO]: UUID of player LegoHacker is 843eb052-29a1-471f-b1e7-bccb743f1a48
+[23:59:01] [Server thread/INFO]: LegoHacker[/31.6.49.238:60229] logged in with entity id 3204 at (-31.486734629291707, 69.0, -166.22486186514146)
+[23:59:01] [Server thread/INFO]: LegoHacker joined the game
+[23:59:20] [Server thread/INFO]: LegoHacker lost connection: Disconnected
+[23:59:20] [Server thread/INFO]: LegoHacker left the game
