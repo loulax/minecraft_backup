@@ -1,26 +1,5 @@
-[22:49:10] [User Authenticator #8/INFO]: UUID of player LegoHacker is 843eb052-29a1-471f-b1e7-bccb743f1a48
-[22:49:10] [Server thread/INFO]: LegoHacker[/31.6.49.238:51197] logged in with entity id 2325 at (-34.5, 73.0, -67.5)
-[22:49:10] [Server thread/INFO]: LegoHacker joined the game
-[22:49:34] [User Authenticator #9/INFO]: UUID of player FxEok is ad0c8b6a-84fe-4fcc-980d-492c2751f934
-[22:49:34] [Server thread/INFO]: FxEok[/178.208.173.240:63981] logged in with entity id 2447 at (-31.5, 72.0, -65.5)
-[22:49:34] [Server thread/INFO]: FxEok joined the game
-[22:49:48] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=-31, y=73, z=-65}
-[22:49:53] [Server thread/WARN]: FxEok moved too quickly! 0.20481778056995026,13.454168388742346,0.04468724266668289
-[22:49:59] [Server thread/INFO]: <FxEok> i hearda nigger dog
-[22:50:00] [Server thread/WARN]: FxEok moved too quickly! -0.4130502384307775,11.96463829959113,-0.07102190951172815
-[22:50:07] [Server thread/WARN]: FxEok moved too quickly! -0.36865537043140506,13.21014648965567,0.20638837756490602
-[22:50:13] [Server thread/INFO]: <FxEok> i think this is plain shit
-[22:50:14] [Server thread/WARN]: FxEok moved too quickly! 0.17619139399046446,20.19759373232651,-0.08531440666993717
-[22:50:17] [Server thread/INFO]: LegoHacker lost connection: Disconnected
-[22:50:17] [Server thread/INFO]: LegoHacker left the game
-[22:50:19] [Server thread/WARN]: FxEok moved too quickly! 6.34022577648151,-1.5926045976350593,9.227702056552005
-[22:50:22] [Server thread/WARN]: FxEok moved too quickly! 11.744984401864322,0.03130000000000166,4.034713039268755
-[22:50:25] [Server thread/WARN]: FxEok moved too quickly! 0.2255888224284206,33.59852208395694,0.24994198616475316
-[22:50:26] [Server thread/WARN]: FxEok moved too quickly! 5.293564756852064,0.04332011250883738,10.175381550999182
-[22:50:29] [Server thread/INFO]: FxEok lost connection: Disconnected
-[22:50:29] [Server thread/INFO]: FxEok left the game
-[23:59:01] [User Authenticator #10/INFO]: UUID of player LegoHacker is 843eb052-29a1-471f-b1e7-bccb743f1a48
-[23:59:01] [Server thread/INFO]: LegoHacker[/31.6.49.238:60229] logged in with entity id 3204 at (-31.486734629291707, 69.0, -166.22486186514146)
-[23:59:01] [Server thread/INFO]: LegoHacker joined the game
-[23:59:20] [Server thread/INFO]: LegoHacker lost connection: Disconnected
-[23:59:20] [Server thread/INFO]: LegoHacker left the game
+[02:32:35] [User Authenticator #11/INFO]: UUID of player tukasa1129 is b93b4b51-0a99-4c34-840c-5a2c0916b0ee
+[02:32:35] [Server thread/INFO]: tukasa1129[/51.15.119.171:58754] logged in with entity id 3403 at (-31.5, 84.0, -70.5)
+[02:32:35] [Server thread/INFO]: tukasa1129 joined the game
+[02:32:40] [Server thread/INFO]: tukasa1129 lost connection: Disconnected
+[02:32:40] [Server thread/INFO]: tukasa1129 left the game
